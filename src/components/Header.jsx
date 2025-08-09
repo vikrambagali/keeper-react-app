@@ -6,7 +6,7 @@ import React from 'react'
       <h1>Keeper App</h1>
       <img
       className="w-8 h-8 sm:w-10 sm:h-10"
-      src="public/logo.svg"
+      src="/logo.svg"
        alt="Keeper Logo" />
     </div>
   )
