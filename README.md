@@ -44,26 +44,23 @@ The app uses advanced React concepts, a clean UI, and responsive design to ensur
     npm run dev
 
 # 🧩 Challenges Faced & Solutions
--1. ## Responsive Design Issues
+## 1.  Responsive Design Issues
 -**Problem**: Layout breaking on small screens
-
 -**Solution**: Used Tailwind CSS responsive classes (sm:, md:, lg:) to ensure a smooth layout on all devices.
-
--2.## Empty Input Handling
+---
+## 2. Empty Input Handling
 -**Problem**: Users could submit empty notes
-
 -**Solution**: Added a validation check and an alert message before adding a note.
-
--3.## Component Communication
+---
+## 3. Component Communication
 -**Problem**: Difficulty passing data between components
-
 -**Solution**: Used Props to pass data and functions efficiently.
+---
 
 
 
 
-
-
+---
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
