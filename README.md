@@ -4,8 +4,8 @@ A modern and responsive Keeper App built with **React.js**, designed to help use
 The app uses advanced React concepts, a clean UI, and responsive design to ensure a smooth experience across all devices.
 
 ## 🚀 Live Demo
-- **Netlify:** [https://your-netlify-link.netlify.app](https://your-netlify-link.netlify.app)  
-- **Vercel:** [https://your-vercel-link.vercel.app](https://your-vercel-link.vercel.app)  
+- **Netlify:** [View Here](https://keeperreacts.netlify.app/)  
+- **Vercel:** [View Here](https://keeper-react-app-two.vercel.app/)  
 
 ---
 
@@ -44,20 +44,20 @@ The app uses advanced React concepts, a clean UI, and responsive design to ensur
     npm run dev
 
 # 🧩 Challenges Faced & Solutions
--1. Responsive Design Issues
-**Problem**: Layout breaking on small screens
+-1. ## Responsive Design Issues
+-**Problem**: Layout breaking on small screens
 
-**Solution**: Used Tailwind CSS responsive classes (sm:, md:, lg:) to ensure a smooth layout on all devices.
+-**Solution**: Used Tailwind CSS responsive classes (sm:, md:, lg:) to ensure a smooth layout on all devices.
 
--2. Empty Input Handling
-**Problem**: Users could submit empty notes
+-2.## Empty Input Handling
+-**Problem**: Users could submit empty notes
 
-**Solution**: Added a validation check and an alert message before adding a note.
+-**Solution**: Added a validation check and an alert message before adding a note.
 
--3. Component Communication
-**Problem**: Difficulty passing data between components
+-3.## Component Communication
+-**Problem**: Difficulty passing data between components
 
-**Solution**: Used Props to pass data and functions efficiently.
+-**Solution**: Used Props to pass data and functions efficiently.
 
 
 
